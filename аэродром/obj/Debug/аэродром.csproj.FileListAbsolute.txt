@@ -1,0 +1,10 @@
+C:\Users\Никита\Desktop\new\аэродром\аэродром\bin\Debug\аэродром.exe.config
+C:\Users\Никита\Desktop\new\аэродром\аэродром\bin\Debug\аэродром.exe
+C:\Users\Никита\Desktop\new\аэродром\аэродром\bin\Debug\аэродром.pdb
+C:\Users\Никита\Desktop\new\аэродром\аэродром\obj\Debug\аэродром.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\new\аэродром\аэродром\obj\Debug\аэродром.Form1.resources
+C:\Users\Никита\Desktop\new\аэродром\аэродром\obj\Debug\аэродром.Properties.Resources.resources
+C:\Users\Никита\Desktop\new\аэродром\аэродром\obj\Debug\аэродром.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\new\аэродром\аэродром\obj\Debug\аэродром.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\new\аэродром\аэродром\obj\Debug\аэродром.exe
+C:\Users\Никита\Desktop\new\аэродром\аэродром\obj\Debug\аэродром.pdb
